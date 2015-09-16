@@ -45,7 +45,7 @@ background: url();
 
 .section1{
     overflow: hidden;
-   background: url("https://images.unsplash.com/photo-1414808549009-35951c724e9f?q=80&fm=jpg&s=e0106f5e05e81c26488669026d1a7fe2")no-repeat right bottom fixed;
+   background: url("https://images.unsplash.com/3/alejandroescamilla-book.jpg?q=80&fm=jpg&s=863c3ea73cc0af3785af91d15109f1b4")no-repeat top center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -57,7 +57,7 @@ background: url();
     background-color: rgba(255,255,255,0.7);
     font-family: 'Open Sans Condensed', sans-serif;
     text-align: center;
-    background: url("https://images.unsplash.com/3/alejandroescamilla-book.jpg?q=80&fm=jpg&s=863c3ea73cc0af3785af91d15109f1b4")no-repeat center bottom fixed;
+    background: url("http://41.media.tumblr.com/71d10ae124bf2c33567f4e1fd364a99e/tumblr_ntgu6ah0JN1sfie3io1_1280.jpg")no-repeat right bottom fixed;
      -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -87,11 +87,26 @@ background: url();
 
 .section3{
     overflow: hidden;
-    background-color: rgba(255,255,255,0.7);
     font-family: 'Open Sans Condensed', sans-serif;
-    
+    background: url("http://41.media.tumblr.com/7e7abbf78fa541dba49781a68e0f6da4/tumblr_nnmqwk0bSH1qfirfao1_1280.jpg") no-repeat center right fixed;
+    text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 	
+.section4{
+    overflow: hidden;
+    background: url("http://41.media.tumblr.com/be75fb1f26b979397e9a8b3fdb73b9ae/tumblr_nntzcr0S8a1sfie3io1_1280.jpg") no-repeat center center fixed;
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+
 }
 
 @media(max-width:1200px) {
