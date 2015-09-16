@@ -37,17 +37,7 @@ background: url();
 .container{
       width:99%;
 }
-.one{
-    padding: 3%;
-    width: 40%;
-    font-family: 'Open Sans Condensed', sans-serif;
-    background: linear-gradient(
-        rgba(255, 255, 255, 0.9), 
-      rgba(255, 255, 255, 0.9)
-    );
-    border-bottom-left-radius: 8px;
-    border-top-left-radius:  8px;
-}
+
 .section1{
     overflow: hidden;
    background: url("https://images.unsplash.com/photo-1414808549009-35951c724e9f?q=80&fm=jpg&s=e0106f5e05e81c26488669026d1a7fe2")no-repeat right bottom fixed;
@@ -63,19 +53,44 @@ background: url();
     background-color: rgba(255,255,255,0.7);
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
-
-    padding: 3%;
     font-family: 'Open Sans Condensed', sans-serif;
     text-align: center;
+}
 
+.one{
+    width: 50%;
+    font-family: 'Open Sans Condensed', sans-serif;
+    background: linear-gradient(
+        rgba(255, 255, 255, 0.9), 
+      rgba(255, 255, 255, 0.9)
+    );
+    /*border-bottom-left-radius: 8px;
+    border-top-left-radius:  8px;*/
+}
+
+.two{
+    width: 50%;
+    margin-left: 50%;
+    font-family: 'Open Sans Condensed', sans-serif;
+    background: linear-gradient(
+        rgba(255, 255, 255, 0.9), 
+      rgba(255, 255, 255, 0.9)
+    );
+    border-bottom-left-radius: 8px;
+    border-top-left-radius:  8px;
 }
 .section3{
     overflow: hidden;
     background-color: rgba(255,255,255,0.7);
     border-radius-bottom-right: 10px;
     border-radius-bottom-left: 10px;
-    padding: 3%;
     font-family: 'Open Sans Condensed', sans-serif;
+       background: url("https://images.unsplash.com/photo-1429902926379-7cfd3d9cafda?q=80&fm=jpg&s=b51a370f9925e15257170e52dc6c642a")no-repeat right bottom fixed;
+     -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 	
 }
 
