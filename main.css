@@ -1,4 +1,7 @@
-
+body{
+    margin-top: 70px; 
+    /*For Navbar!*/
+}
 .heading{
     font-family: 'Pacifico', cursive;
 
@@ -54,7 +57,7 @@ background: url();
     background-color: rgba(255,255,255,0.7);
     font-family: 'Open Sans Condensed', sans-serif;
     text-align: center;
-    background: url("https://images.unsplash.com/photo-1429902926379-7cfd3d9cafda?q=80&fm=jpg&s=b51a370f9925e15257170e52dc6c642a")no-repeat right bottom fixed;
+    background: url("https://images.unsplash.com/3/alejandroescamilla-book.jpg?q=80&fm=jpg&s=863c3ea73cc0af3785af91d15109f1b4")no-repeat center bottom fixed;
      -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
