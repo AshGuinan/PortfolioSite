@@ -4,6 +4,7 @@ body{
 }
 
 .row{
+  padding: 2%;
   background-color: rgba(255,255,255,0.9);
 }
 
@@ -105,7 +106,7 @@ background: url();
     overflow: hidden;
     background: url("http://41.media.tumblr.com/be75fb1f26b979397e9a8b3fdb73b9ae/tumblr_nntzcr0S8a1sfie3io1_1280.jpg") no-repeat center center fixed;
     font-family: 'Open Sans Condensed', sans-serif;
-    text-align: center;
+    text-align: left;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
