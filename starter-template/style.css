@@ -1,0 +1,55 @@
+body{
+	background: url(../assets/veri-ivanova.jpg) no-repeat center;
+	background-size: cover;
+}
+
+h1{
+	font-family: 'Quicksand', sans-serif;
+	text-align: left;
+	font-size: 3.771em;
+}
+
+.lead{
+	font-family: 'EB Garamond', serif;
+	margin-left: 4.45%;
+	text-align: left;
+	font-size: 2em;
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.top {
+	height: 100vh;
+}
+
+.projects {
+	height: 300px;
+	width: 100%;
+	background: white;
+}
+
+.project{
+	height: 300px;
+	text-align: center;
+	padding-top: 10%;
+}
+
+.beacon {
+	background: rgb(158,200,232);
+}
+
+.sampleA {
+	background: rgb(213,175,222);
+}
+
+.sampleB {
+	background: rgb(131,224,112);
+}
